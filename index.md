@@ -4,7 +4,7 @@ title: Jase Sanders
 # jekyll serve --watch
 ---
 
-I like speed, and building shit people actually use.
+I like speed, and building shit people actually use...
 
 * Currently going "beyond the ordinary" @ <a href="https://www.redbull.tv" style="color:#db0a40">Red Bull TV</a>
 * Used to help people find homes @ <a href="http://www.rent.com/" style="color:#00adee">Rent.com</a>
