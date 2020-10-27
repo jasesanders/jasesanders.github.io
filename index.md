@@ -16,4 +16,4 @@ Holla at me on the internet:
 
 Cheers,
 **Jase**
-<a href="mailto:hello@jasesanders.com" style="color:#dd4b39" rel="me">hello@jasesanders.com</a>
+<a href="mailto:jasesanders@hey.com" style="color:#dd4b39" rel="me">jasesanders@hey.com</a>
