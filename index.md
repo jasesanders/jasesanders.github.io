@@ -6,8 +6,9 @@ title: Jase Sanders
 
 I like speed, and building shit people actually use...
 
-* Currently going "beyond the ordinary" @ <a href="https://www.redbull.tv" style="color:#db0a40">Red Bull TV</a>
-* Used to help people find homes @ <a href="http://www.rent.com/" style="color:#00adee">Rent.com</a>
+* Currently "directing product" @ <a href="https://superformula.com" style="color:rgb(42, 227, 157)">Superformula</a>
+* Used to go "full send" on video stuff @ <a href="https://www.redbull.tv" style="color:#db0a40">Red Bull TV</a>
+* Before that, I helped people find homes @ <a href="https://www.rent.com/" style="color:#00adee">Rent.com</a>
 
 Holla at me on the internet:
 * I has a <a href="https://www.linkedin.com/in/jasesanders" style="color:#006fa6" rel="me">LinkedIn</a>
